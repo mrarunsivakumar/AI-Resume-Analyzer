@@ -7,7 +7,7 @@ import re
 import spacy
 
 # Set up OpenAI API key
-openai.api_key = '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'  # Replace with your actual API key
+openai.api_key = 'your api key'  # Replace with your actual API key
 
 # Streamlit App
 st.markdown('<h1 style="color: red;">AI Resume Analyzer</h1>', unsafe_allow_html=True)
